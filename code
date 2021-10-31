@@ -1,5 +1,6 @@
 #include<windows.h>
 #include<stdio.h>
+#include<conio.h>
 
 int main()
 {
@@ -25,5 +26,6 @@ int main()
     printf("\n\nWhat are you waiting for?? Just play with it!!");
 
     printf("\n\n\t\t\tCoding is Fun !\n\n\n");
+    return 0;
     
 }
